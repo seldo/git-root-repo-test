@@ -1,0 +1,3 @@
+[submodule "suprepo-dir"]
+	path = suprepo-dir
+	url = git@github.com:seldo/git-sub-repo-test.git
